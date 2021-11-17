@@ -5,7 +5,6 @@
 /library/
 /temp/
 /local/
-/build/
 
 #/////////////////////////////////////////////////////////////////////////////
 # npm files
@@ -51,3 +50,11 @@ Thumbs.db
 #//////////////////////////
 
 .vscode/
+build/jsb-default/assets/
+build/jsb-default/src/
+build/jsb-default/jsb-adapter/
+build/jsb-default/frameworks/cocos2d-x/
+build/jsb-default/project.json
+build/jsb-default/main.js
+build/jsb-default/cocos-project-template.json
+build/jsb-default/.cocos-project.json
